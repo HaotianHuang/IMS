@@ -1,0 +1,244 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/haotianhuang/Desktop/IMS/IMS.WebApp/IMS.WebApp.csproj": {}
+  },
+  "projects": {
+    "/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/IMS.CoreBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/IMS.CoreBusiness.csproj",
+        "projectName": "IMS.CoreBusiness",
+        "projectPath": "/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/IMS.CoreBusiness.csproj",
+        "packagesPath": "/Users/haotianhuang/.nuget/packages/",
+        "outputPath": "/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/haotianhuang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/IMS.Plugins.InMemory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/IMS.Plugins.InMemory.csproj",
+        "projectName": "IMS.Plugins.InMemory",
+        "projectPath": "/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/IMS.Plugins.InMemory.csproj",
+        "packagesPath": "/Users/haotianhuang/.nuget/packages/",
+        "outputPath": "/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/haotianhuang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/IMS.CoreBusiness.csproj": {
+                "projectPath": "/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/IMS.CoreBusiness.csproj"
+              },
+              "/Users/haotianhuang/Desktop/IMS/IMS.UseCases/IMS.UseCases.csproj": {
+                "projectPath": "/Users/haotianhuang/Desktop/IMS/IMS.UseCases/IMS.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/haotianhuang/Desktop/IMS/IMS.UseCases/IMS.UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/haotianhuang/Desktop/IMS/IMS.UseCases/IMS.UseCases.csproj",
+        "projectName": "IMS.UseCases",
+        "projectPath": "/Users/haotianhuang/Desktop/IMS/IMS.UseCases/IMS.UseCases.csproj",
+        "packagesPath": "/Users/haotianhuang/.nuget/packages/",
+        "outputPath": "/Users/haotianhuang/Desktop/IMS/IMS.UseCases/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/haotianhuang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/IMS.CoreBusiness.csproj": {
+                "projectPath": "/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/IMS.CoreBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/haotianhuang/Desktop/IMS/IMS.WebApp/IMS.WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/haotianhuang/Desktop/IMS/IMS.WebApp/IMS.WebApp.csproj",
+        "projectName": "IMS.WebApp",
+        "projectPath": "/Users/haotianhuang/Desktop/IMS/IMS.WebApp/IMS.WebApp.csproj",
+        "packagesPath": "/Users/haotianhuang/.nuget/packages/",
+        "outputPath": "/Users/haotianhuang/Desktop/IMS/IMS.WebApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/haotianhuang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/IMS.CoreBusiness.csproj": {
+                "projectPath": "/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/IMS.CoreBusiness.csproj"
+              },
+              "/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/IMS.Plugins.InMemory.csproj": {
+                "projectPath": "/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/IMS.Plugins.InMemory.csproj"
+              },
+              "/Users/haotianhuang/Desktop/IMS/IMS.UseCases/IMS.UseCases.csproj": {
+                "projectPath": "/Users/haotianhuang/Desktop/IMS/IMS.UseCases/IMS.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

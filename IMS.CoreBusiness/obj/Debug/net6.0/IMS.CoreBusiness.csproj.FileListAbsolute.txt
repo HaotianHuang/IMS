@@ -1,0 +1,12 @@
+/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/bin/Debug/net6.0/IMS.CoreBusiness.deps.json
+/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/bin/Debug/net6.0/IMS.CoreBusiness.dll
+/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/bin/Debug/net6.0/IMS.CoreBusiness.pdb
+/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/obj/Debug/net6.0/IMS.CoreBusiness.csproj.AssemblyReference.cache
+/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/obj/Debug/net6.0/IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/obj/Debug/net6.0/IMS.CoreBusiness.AssemblyInfoInputs.cache
+/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/obj/Debug/net6.0/IMS.CoreBusiness.AssemblyInfo.cs
+/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/obj/Debug/net6.0/IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/obj/Debug/net6.0/IMS.CoreBusiness.dll
+/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/obj/Debug/net6.0/refint/IMS.CoreBusiness.dll
+/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/obj/Debug/net6.0/IMS.CoreBusiness.pdb
+/Users/haotianhuang/Desktop/IMS/IMS.CoreBusiness/obj/Debug/net6.0/ref/IMS.CoreBusiness.dll

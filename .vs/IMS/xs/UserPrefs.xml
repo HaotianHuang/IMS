@@ -1,0 +1,76 @@
+﻿<Properties StartupConfiguration="{DEBD4A2C-0BDE-44B1-8587-208E0AC466DF}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.IMS.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/haotianhuang/Desktop/IMS/IMS.WebApp/Pages/Index.razor" relfile="IMS.WebApp/Pages/Index.razor" line="5" column="1" />
+      <Breakpoint file="/Users/haotianhuang/Desktop/IMS/IMS.WebApp/Pages/Index.razor" relfile="IMS.WebApp/Pages/Index.razor" line="27" column="1" />
+      <Breakpoint file="/Users/haotianhuang/Desktop/IMS/IMS.WebApp/Pages/Index.razor" relfile="IMS.WebApp/Pages/Index.razor" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="IMS.WebApp/Pages/Index.razor">
+    <Files>
+      <File FileName="IMS.WebApp/Program.cs" Line="40" Column="1" />
+      <File FileName="IMS.Plugins/IMS.Plugins.InMemory/InventoryRepository.cs" Line="46" Column="14" />
+      <File FileName="IMS.WebApp/Pages/Index.razor" Line="27" Column="83" />
+      <File FileName="IMS.UseCases/Inventories/Interfaces/IViewInventoriesByNameUseCase.cs" Line="1" Column="1" />
+      <File FileName="IMS.UseCases/Inventories/ViewInventoriesByNameUseCase.cs" Line="20" Column="52" />
+      <File FileName="IMS.WebApp/Pages/Inventories/InventoryList.razor" Line="1" Column="21" />
+      <File FileName="IMS.UseCases/PluginInterfaces/IInventoryRepository.cs" Line="15" Column="18" />
+      <File FileName="IMS.WebApp/_Imports.razor" />
+      <File FileName="IMS.CoreBusiness/Inventory.cs" />
+      <File FileName="IMS.WebApp/Shared/NavMenu.razor" />
+      <File FileName="IMS.WebApp/App.razor" />
+      <File FileName="IMS.WebApp/Shared/MainLayout.razor" />
+      <File FileName="IMS.WebApp/Pages/_Host.cshtml" />
+      <File FileName="IMS.UseCases/Inventories/AddInventoryUseCase.cs" Line="15" Column="10" />
+      <File FileName="IMS.WebApp/Pages/Inventories/AddInventory.razor" Line="59" Column="54" />
+      <File FileName="IMS.WebApp/Pages/Counter.razor" />
+      <File FileName="IMS.WebApp/Pages/_Layout.cshtml" />
+      <File FileName="IMS.WebApp/Controls/Inventories/InventoryListComponent.razor" Line="13" Column="22" />
+      <File FileName="IMS.WebApp/Pages/FetchData.razor" Line="1" Column="1" />
+      <File FileName="IMS.WebApp/Controls/Inventories/InventoryListItemComponent.razor" Line="1" Column="1" />
+      <File FileName="IMS.WebApp/Controls/Inventories/SearchInventoryComponent.razor" Line="1" Column="1" />
+      <File FileName="IMS.UseCases/Inventories/Interfaces/EditInventoryUseCase.cs" Line="18" Column="48" />
+      <File FileName="IMS.UseCases/Inventories/IEditInventoryUseCase.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IMS" expanded="True">
+            <Node name="IMS.CoreBusiness" expanded="True" />
+            <Node name="IMS.Plugins.InMemory" expanded="True" />
+            <Node name="IMS.UseCases" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Inventories" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="PluginInterfaces" expanded="True" />
+            </Node>
+            <Node name="IMS.WebApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controls" expanded="True">
+                <Node name="Inventories" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Inventories" expanded="True" />
+                <Node name="Index.razor" selected="True" />
+              </Node>
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="bootstrap" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

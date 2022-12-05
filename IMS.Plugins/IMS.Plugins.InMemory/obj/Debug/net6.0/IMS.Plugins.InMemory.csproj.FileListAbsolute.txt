@@ -1,0 +1,17 @@
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net6.0/IMS.Plugins.InMemory.deps.json
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net6.0/IMS.Plugins.InMemory.dll
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net6.0/IMS.Plugins.InMemory.pdb
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net6.0/IMS.CoreBusiness.dll
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net6.0/IMS.UseCases.dll
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net6.0/IMS.UseCases.pdb
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net6.0/IMS.CoreBusiness.pdb
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net6.0/IMS.Plugins.InMemory.csproj.AssemblyReference.cache
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net6.0/IMS.Plugins.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net6.0/IMS.Plugins.InMemory.AssemblyInfoInputs.cache
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net6.0/IMS.Plugins.InMemory.AssemblyInfo.cs
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net6.0/IMS.Plugins.InMemory.csproj.CoreCompileInputs.cache
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net6.0/IMS.Plugins.InMemory.csproj.CopyComplete
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net6.0/IMS.Plugins.InMemory.dll
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net6.0/refint/IMS.Plugins.InMemory.dll
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net6.0/IMS.Plugins.InMemory.pdb
+/Users/haotianhuang/Desktop/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net6.0/ref/IMS.Plugins.InMemory.dll
